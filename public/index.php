@@ -14,6 +14,7 @@
 </head>
 	<header>
 	<p>testing edit</p>	
+	<p>Now this is edited on the local side</p>
 	</header>
 <body>
 </body>
